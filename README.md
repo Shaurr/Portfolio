@@ -1,7 +1,3 @@
-# Portfolio
-
-René Fuhrmann 
-
 ## [BAProject](https://github.com/Shaurr/ProjectM)
 
 * C#, Unity2D
