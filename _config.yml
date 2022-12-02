@@ -1,7 +1,9 @@
 remote_theme: pages-themes/slate@v0.2.0
+title: [Portfolio of René Fuhrmann]
+description: [Fuhrmann.Rene@gmx.net]
+how_downloads: [false]
+
 plugins:
 - jekyll-remote-theme
 
-title: [Portfolio]
-description: [René Fuhrmann               Fuhrmann.Rene@gmx.net]
-how_downloads: [false]
+
