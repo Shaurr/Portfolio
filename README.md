@@ -17,7 +17,7 @@ The player has to fight against a variety of bosses while the game collects data
 
 Pilot your spaceship through space. Doge hostile objects and projectiles while defeating all enemies and fight throw as many random generated waves as you can.
 
-![](/images/partikel.png)
+![](/images/particel.png)
 
 ## [Skill game](https://github.com/Shaurr/ProjectM)
 
