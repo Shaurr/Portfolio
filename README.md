@@ -2,8 +2,8 @@
 
 * C#, Unity2D
 
-Game developed for my bachelor thesis. 
-The player has to fight against a variety of bosses while the game collects data to test different approaches of highlighting weak spots.
+Game developed for my bachelor thesis. It is a tool to analyse the influence of diverse indicators for the weak spots of bosses on the gameplay. Therefore, the player fights through a boss rush, where each boss uses different indicators. The game also collects data for evaluation during the gameplay.
+
 
 ![](/images/ba.jpg)
 
@@ -11,7 +11,8 @@ The player has to fight against a variety of bosses while the game collects data
 
 * C#, Unity2D
 
-Pilot your spaceship through space. Doge hostile objects and projectiles while defeating all enemies and fight throw as many random generated waves as you can.
+This game is based on particle systems. In this game the player must pilot his spaceship through space and doge hostile objects. His goal is to survive as many waves of enemies as possible and set the highest score. These waves are randomly generated and increase in difficulty. Alongside the enemies can additionally spawn helpful items, like health and special attacks.
+
 
 ![](/images/particel.png)
 
@@ -19,16 +20,8 @@ Pilot your spaceship through space. Doge hostile objects and projectiles while d
 
 * C#, Unity3D
 
-Game developed with Unity Physics. 
-Move the ball through the mazes by tilting the game board.
+This Game is developed with Unity Physics. 
+The Objective of the game is to move a ball through varying mazes. But the player can’t control the ball directly and only tilt the gameboard to move the ball through the maze.
 
 ![](/images/skill.png)
 
-## MANA
-
-* C#, Unity3D, VR
-
-Game developed with Unity Physics. 
-Move the ball through the mazes by tilting the game board.
-
-![](/images/mana2.png)
