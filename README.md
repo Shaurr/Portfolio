@@ -25,3 +25,11 @@ The Objective of the game is to move a ball through varying mazes. But the playe
 
 ![](/images/skill.png)
 
+## MANA
+* C#, Unity3D, SteamVR
+
+A game developed by around 40 students over two semesters.
+It is a 2 vs. 2 multiplayer VR game, where you play as a sorcerer. Together with your friend you fight against a team of two opposing sorcerers over the domination of the arena. This arena consists of pillars flying in the sky. Conquer more pillars than the enemy through strategic use of spells and good teamwork to win the game.
+I was part of the team of programmers and worked on the function of the spells and on the technical side of the UI.
+
+![](/images/mana2.png)
